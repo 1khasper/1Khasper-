@@ -1,0 +1,32 @@
+#include <iostream>
+
+Using namespace std;
+
+Int main () 
+
+{
+
+String name;
+Double zip;
+String address;
+String city;
+Double tel_num;
+String college;
+String state;
+
+
+
+Cout << “ Enter your Name, ZIP, Address, City, Telephone Number, College and State. Respectively << endl;
+
+Cin >> Name ;
+Cin >> zip ;
+Cin >> address;
+Cin >> City ;
+Cin >> tel_num ;
+Cin >> college ;
+Cin >> state ;
+
+
+ return 0;
+
+}
